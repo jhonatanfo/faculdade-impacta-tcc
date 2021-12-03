@@ -1,0 +1,72 @@
+{
+  "categorias": [
+    {
+      "name": "camisa",
+      "id": 2
+    },
+    {
+      "name": "Bone",
+      "id": 3
+    },
+    {
+      "name": "Tennis",
+      "id": 4
+    }
+  ],
+  "movimentacoes": [
+    {
+      "quantidade": "11",
+      "name": "desabilitado",
+      "data": "00/00/0000",
+      "idusuario": "2",
+      "idproduto": "2",
+      "id": 2
+    },
+    {
+      "quantidade": "5",
+      "name": "ativo",
+      "data": "00/00/0000",
+      "idusuario": "3",
+      "idproduto": "3",
+      "id": 3
+    },
+    {
+      "quantidade": "9",
+      "name": "ativo",
+      "data": "00/00/0000",
+      "idusuario": "8",
+      "idproduto": "8",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "camisa",
+      "status": "Ativo",
+      "quantidade": "5",
+      "idfornecedor": "1",
+      "idcategoria": "1",
+      "id": 1
+    },
+    {
+      "name": "Camisa",
+      "status": "Ativo",
+      "quantidade": "6",
+      "idfornecedor": "2",
+      "idcategoria": "2",
+      "id": 2
+    }
+  ],
+  "fornecedors": [
+    {
+      "name": "Lacoste",
+      "cnpj": "00000000000-00000",
+      "id": 1
+    },
+    {
+      "name": "marca",
+      "cnpj": "00000000-0000",
+      "id": 2
+    }
+  ]
+}
